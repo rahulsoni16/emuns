@@ -8,7 +8,7 @@ import java.util.Set;
 public class JavaEnumExamples {
 
 	public static void main(String[] args) throws IOException {
-		//Test		
+		//Test1		
 		usingEnumMethods();
 		
 		usingEnumValueOf();
